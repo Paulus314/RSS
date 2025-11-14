@@ -6,14 +6,14 @@
     <link>https://paulus314.github.io/RSS/</link>
     <description>Los mejores jefes de Hollow Knight en una misma página Web.</description>
     <copyright>CC 4.0 – BY-SA</copyright>
+
+    <item>
+      <title>Damos inicio a la página Web</title>
+      <link>https://paulus314.github.io/RSS/</link>
+      <description>Enterate de toda la info sobre los jefes de Hollow Knight.</description>
+      <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+
   </channel>
-
-  <item>
-    <title>Damos inicio a la página Web</title>
-    <link>https://paulus314.github.io/RSS/</link>
-    <description>Enterate de toda la info sobre los jefes de Hollow Knight.</description>
-    <author>Pablo</author>
-    <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
-  </item>
-
+  
 </rss>
